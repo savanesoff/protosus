@@ -38,13 +38,3 @@ SVG:
 GIF:
 
 ![Animated by Protosus GIF](public/icons/by-protosus.gif)
-
-## RAW Links test
-
-[![Protosus SVG](https://raw.githubusercontent.com/savanesoff/protosus-branding/main/public/icons/protosus.svg)](https://github.com/savanesoff/protosus)
-
-[![By Protosus SVG](https://raw.githubusercontent.com/savanesoff/protosus-branding/main/public/icons/by-protosus.svg)](https://github.com/savanesoff/protosus)
-
-[![Favicon SVG](https://raw.githubusercontent.com/savanesoff/protosus-branding/main/public/icons/favicon.svg)](https://github.com/savanesoff/protosus)
-
-[![Favicon PNG](https://raw.githubusercontent.com/savanesoff/protosus-branding/main/public/icons/favicon.png)](https://github.com/savanesoff/protosus)
